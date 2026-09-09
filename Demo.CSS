@@ -1,0 +1,38 @@
+/* h1{
+    background-color: black; 
+    color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    background-color: cornflowerblue;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+/* }  */
+
+ *{
+   background-color: crimson;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+
+/* h1{
+    background-color:crimson;
+    color:beige;
+    font-family: cursive;
+} */
+/* h1,p{
+    background-color: coral;
+    color:azure;
+/* }  */
+ .heading{
+    background-color: darkgoldenrod;
+    
+ }
+
+ .info{
+    background-color: cadetblue;
+ }
+ #a{
+    background-color: darkolivegreen;
+ }
