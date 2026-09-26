@@ -1,0 +1,35 @@
+.parent{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+
+    animation: coding2  10s alternate-reverse;
+}
+
+@keyframes coding{
+    from{
+        background-color: pink;
+    }
+
+    to{
+        background-color: black;
+    }
+}
+
+@keyframes coding2{
+    0%{
+        background-color:gray ;
+    }
+    25%{
+        background-color: purple;
+    }
+    50%{
+        background-color: lightcoral;
+    }
+    75%{
+        background-color: goldenrod;
+    }
+    100%{
+        background-color: lightseagreen;
+    }
+}
